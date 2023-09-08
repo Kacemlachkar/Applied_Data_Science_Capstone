@@ -1,6 +1,5 @@
 # Applied_Data_Science_Capstone
 
-![Capture d'écran 2023-09-08 194054](https://github.com/Kacemlachkar/Applied_Data_Science_Capstone/assets/115545488/21582192-c651-4b8e-bbcc-50549a2f039e)
 
 
 ## Introduction
